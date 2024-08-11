@@ -55,5 +55,5 @@ profile.greet()
 
 #### ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
-<!-- Activity details will be automatically fetched from GitHub -->
+
 <!--END_SECTION:activity-->
