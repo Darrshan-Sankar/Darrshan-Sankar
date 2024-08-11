@@ -35,7 +35,6 @@ class MyProfile👀:
         self.professional_roles = ["🧑‍💻 AI Generalist", "🎓 Student (Previous Role)"]
         self.hobbies = ["🔬 Tech Research (AI & PC's)", "🔍 Fact-Finding", "🌍 Traveling", "🎵 Re-Composing "]
         self.interests = ["🤖 AI", "📚 Deep Learning", "🎨 Generative-AI", "💬 LLMs", "💻 Computer Hardware", "🎶 Music", "💻 Development"]
-        self.website = "🌐 https://darrshan-s.web.app"
 
     def greet(self):
         print("Thank you for visiting! I hope you find my work interesting.")
@@ -44,7 +43,7 @@ class MyProfile👀:
 profile = MyProfile()
 profile.greet()
 ```
-
+<!-----self.website = "🌐 https://darrshan-s.web.app"--->
 #### 📊 GitHub Stats
 
 <a href="https://github.com/Darrshan-Sankar/">
