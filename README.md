@@ -55,3 +55,9 @@ profile.greet()
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#11](https://github.com/rajkumardusad/jitcompiler/issues/11) in [rajkumardusad/jitcompiler](https://github.com/rajkumardusad/jitcompiler)
+2. 🗣 Commented on [#10](https://github.com/rajkumardusad/jitcompiler/issues/10) in [rajkumardusad/jitcompiler](https://github.com/rajkumardusad/jitcompiler)
+3. ❗️ Closed issue [#10](https://github.com/rajkumardusad/jitcompiler/issues/10) in [rajkumardusad/jitcompiler](https://github.com/rajkumardusad/jitcompiler)
+4. ❗️ Opened issue [#187](https://github.com/microsoft/table-transformer/issues/187) in [microsoft/table-transformer](https://github.com/microsoft/table-transformer)
+5. 🗣 Commented on [#167](https://github.com/microsoft/table-transformer/issues/167) in [microsoft/table-transformer](https://github.com/microsoft/table-transformer)
+<!--END_SECTION:activity-->
