@@ -33,7 +33,7 @@ class MyProfile👀:
             }
         }
         self.professional_roles = ["🧑‍💻 AI Generalist", "🎓 Student (Previous Role)"]
-        self.hobbies = ["🔬 Tech Research (AI & PC's)", "🔍 Fact-Finding", "🌍 Traveling", "🎵 Re-Composing Songs"]
+        self.hobbies = ["🔬 Tech Research (AI & PC's)", "🔍 Fact-Finding", "🌍 Traveling", "🎵 Re-Composing "]
         self.interests = ["🤖 AI", "📚 Deep Learning", "🎨 Generative-AI", "💬 LLMs", "💻 Computer Hardware", "🎶 Music", "💻 Development"]
         self.website = "🌐 https://darrshan-s.web.app"
 
