@@ -29,7 +29,7 @@ class MyProfile:
 
     def __init__(self):
         self.name = "👀 Darrshan Seshathrri K S"
-        self.languages = ["🇬🇧 English", "🇮🇳 Tamil", "🇮🇳 Hindi (basic proficiency)"]
+        self.languages = ["🇮🇳 English", "🇮🇳 Tamil", "🇮🇳 Hindi (basic proficiency)"]
         self.education = {
             "B.Tech": {
                 "Degree": "🤖 Artificial Intelligence & Data Science",
