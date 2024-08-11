@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 #### 👨 About Me
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class MyProfile:
 
     def __init__(self):
