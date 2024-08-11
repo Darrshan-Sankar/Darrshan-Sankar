@@ -21,15 +21,15 @@ Here are some ideas to get you started:
 
 #### 👨 About Me
 ```python
-class MyProfile:
+class MyProfile👀:
 
     def __init__(self):
-        self.name = "👀 Darrshan Seshathrri K S"
-        self.languages = ["🇮🇳 English", "🇮🇳 Tamil", "🇮🇳 Hindi (basic proficiency)"]
+        self.name = "Darrshan Seshathrri K S"
+        self.languages = ["🇬🇧 en_IN", "🇮🇳 ta_IN", "🇮🇳 hi_IN (basic proficiency)"]
         self.education = {
             "B.Tech": {
                 "Degree": "🤖 Artificial Intelligence & Data Science",
-                "University": "🟥 KGiSL Institute of Technology"
+                "College": "🟥 KGiSL Institute of Technology"
             }
         }
         self.professional_roles = ["🧑‍💻 AI Generalist", "🎓 Student (Previous Role)"]
