@@ -52,9 +52,9 @@ profile.greet()
 <a href="https://github.com/Darrshan-Sankar/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darrshan-Sankar&count_private=true&show_icons=true&line_height=33" alt="Darrshan-Sankar's GitHub Stats" />
 </a>
-
+<!--
 #### :zap: Recent Activity
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity--
 1. ❗️ Opened issue [#11](https://github.com/rajkumardusad/jitcompiler/issues/11) in [rajkumardusad/jitcompiler](https://github.com/rajkumardusad/jitcompiler)
 2. 🗣 Commented on [#10](https://github.com/rajkumardusad/jitcompiler/issues/10) in [rajkumardusad/jitcompiler](https://github.com/rajkumardusad/jitcompiler)
 3. ❗️ Closed issue [#10](https://github.com/rajkumardusad/jitcompiler/issues/10) in [rajkumardusad/jitcompiler](https://github.com/rajkumardusad/jitcompiler)
