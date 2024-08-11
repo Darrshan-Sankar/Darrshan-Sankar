@@ -29,7 +29,7 @@ class MyProfile👀:
         self.education = {
             "B.Tech": {
                 "Degree": "🤖 Artificial Intelligence & Data Science",
-                "College": "🟥 KGiSL Institute of Technology"
+                "College": "🎓 KGiSL Institute of Technology"
             }
         }
         self.professional_roles = ["🧑‍💻 AI Generalist", "🎓 Student (Previous Role)"]
