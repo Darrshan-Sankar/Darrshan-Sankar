@@ -55,3 +55,9 @@ profile.greet()
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+2. 💪 Opened PR [#2694](https://github.com/chroma-core/chroma/pull/2694) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+3. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+4. 🗣 Commented on [#2637](https://github.com/chroma-core/chroma/issues/2637) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+5. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+<!--END_SECTION:activity-->
