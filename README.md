@@ -56,8 +56,8 @@ profile.greet()
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-2. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-3. 🗣 Commented on [#2730](https://github.com/chroma-core/chroma/issues/2730) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-4. ❗️ Opened issue [#1192](https://github.com/omry/omegaconf/issues/1192) in [omry/omegaconf](https://github.com/omry/omegaconf)
-5. ❗️ Opened issue [#2730](https://github.com/chroma-core/chroma/issues/2730) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+2. ❗️ Closed issue [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+3. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+4. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+5. 🗣 Commented on [#2730](https://github.com/chroma-core/chroma/issues/2730) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
 <!--END_SECTION:activity-->
