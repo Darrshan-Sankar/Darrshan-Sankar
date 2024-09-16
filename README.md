@@ -52,12 +52,3 @@ profile.greet()
 <a href="https://github.com/Darrshan-Sankar/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darrshan-Sankar&count_private=true&show_icons=true&line_height=33" alt="Darrshan-Sankar's GitHub Stats" />
 </a>
-
-#### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/titipata/scipdf_parser/issues/29) in [titipata/scipdf_parser](https://github.com/titipata/scipdf_parser)
-2. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-3. ❗️ Closed issue [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-4. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-5. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-<!--END_SECTION:activity-->
