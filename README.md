@@ -55,9 +55,9 @@ profile.greet()
 
 #### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-2. ❗️ Closed issue [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-3. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+1. ❗️ Opened issue [#29](https://github.com/titipata/scipdf_parser/issues/29) in [titipata/scipdf_parser](https://github.com/titipata/scipdf_parser)
+2. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+3. ❗️ Closed issue [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
 4. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
-5. 🗣 Commented on [#2730](https://github.com/chroma-core/chroma/issues/2730) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
+5. 🗣 Commented on [#2685](https://github.com/chroma-core/chroma/issues/2685) in [chroma-core/chroma](https://github.com/chroma-core/chroma)
 <!--END_SECTION:activity-->
